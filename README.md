@@ -1,2 +1,0 @@
-# geekwhocodes.github.io
-Blog
