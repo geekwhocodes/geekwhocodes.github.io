@@ -1,0 +1,11 @@
+::-moz-selection {
+	background: #da3b01;
+}
+
+::selection {
+	background: #da3b01;
+}
+
+a,a:hover {
+	color: #da3b01;
+}
