@@ -1,0 +1,45 @@
+/*
+    Change tect color
+*/
+
+a {
+    color: #da3b01;
+}
+    a:hover {
+        border-bottom: 2px solid #da3b01;
+    }
+
+::-moz-selection {
+    background: #da3b01;
+}
+::selection {
+    background: #da3b01;
+}
+
+blockquote {
+    border-color: #da3b01;
+}
+
+.header nav.social a:hover {
+    color: #da3b01;
+}
+
+.post .draft-label {
+    color: #da3b01;
+}
+
+.post .tags a {
+    border: 1px solid #da3b01;
+    color: #da3b01;
+}
+.footer a:hover {
+    color: #da3b01;
+}
+
+
+/*
+    Override logo color for dark mode
+*/
+.header nav.social a {
+	color: #ea4300;
+}
