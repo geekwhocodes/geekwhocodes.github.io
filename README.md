@@ -1,6 +1,6 @@
 # Blog ![Deploy](https://github.com/geekwhocodes/h-blog/workflows/Deploy/badge.svg?branch=master)
 
-Visit - <a href="https://geekwhocodes.me" target="_blank">https://geekwhocodes.me</a>
+Visit - <a href="https://geekwhocodes.me" target="_blank">https://geekwhocodes.me </a>
 
 
 # Tech
